@@ -1,0 +1,38 @@
+.container
+{
+    padding-left: 90px;
+}
+
+@media only screen and (max-width:360px)
+{
+    .container{
+        width: 300px;
+        padding: 0px;
+        margin: 0px;
+   
+    } .image
+    {
+        width: 300px;
+        padding: 0px;
+        margin: 0px;
+    }
+         img {
+            width: 250px;
+            height: 180px;
+            padding: 0px;
+            margin: 0px;
+        }  
+
+        .image
+        {
+            width: 360px;
+            padding: 0px;
+            margin: 0px;
+        }
+        .offers
+        {
+            width: 300px;
+            padding: 0px;
+            margin: 0px;
+        }
+}

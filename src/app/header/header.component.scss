@@ -1,0 +1,33 @@
+ul>li{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0px 18px 0px;
+}
+ul{
+    padding: 0px 0px 0px 40px;
+}
+input
+{
+    width: 290px;
+    border-radius: 5px;
+}
+.header{
+    height: auto;
+}
+.header,.collapse{
+margin-right:0px;
+padding-right: 0px;
+
+}
+
+li a
+{
+    font-size: 15px;
+}
+a:hover{
+    font-size: large;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    
+}
